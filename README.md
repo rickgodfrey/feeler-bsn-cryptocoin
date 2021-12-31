@@ -1,1 +1,1 @@
-# feeler-cryptocoin-kit
+# feeler-cryptocoin
